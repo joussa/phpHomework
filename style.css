@@ -1,0 +1,25 @@
+h1
+{
+	color: #FFFFFF;/* white*/
+    font-size: 70px;
+    font-weight: bold;/* gras*/
+    text-align: center;
+    background: silver;
+}
+
+h2
+ {
+ 	color: #000000;/* black*/
+   font-size: 40px;
+   font-weight: bold;
+   background: white;
+ }
+
+ h3
+{
+	color: #FFFFFF;/* white*/
+    font-size: 20px;
+    font-weight: bold;/* gras*/
+    text-align: center;
+     background: silver;
+}
